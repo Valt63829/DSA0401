@@ -1,0 +1,13 @@
+Application_ID,Income,Loan_Amount,Credit_Score,Approval_Status,Gender,Employment_Type
+LA001,45000.0,150000,720,Approved,Female,Salaried
+LA002,30000.0,100000,610,Rejected,Male,Self-employed
+LA003,75000.0,250000,780,Approved,Male,Salaried
+LA004,,120000,650,Rejected,Female,Unemployed
+LA005,52000.0,180000,700,Approved,Female,Salaried
+LA006,28000.0,90000,580,Rejected,Male,Self-employed
+LA007,90000.0,300000,810,Approved,Female,Salaried
+LA008,61000.0,200000,740,Approved,Male,Salaried
+LA009,40000.0,110000,630,Rejected,Female,Unemployed
+LA010,85000.0,280000,790,Approved,Male,Self-employed
+LA011,35000.0,130000,600,Rejected,Male,Salaried
+LA012,67000.0,220000,760,Approved,Female,Salaried
